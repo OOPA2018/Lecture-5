@@ -7,7 +7,7 @@
     <ProjectGuid>{F74C28AB-2F1C-4A84-BBE4-1571C2994C13}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Lecture5and6</RootNamespace>
-    <AssemblyName>Lecture5and6</AssemblyName>
+    <AssemblyName>Lecture5</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
