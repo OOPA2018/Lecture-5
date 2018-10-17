@@ -1,0 +1,8 @@
+c:\users\gawli\onedrive\documents\visual studio 2017\Projects\Lecture5and6\Lecture5and6\bin\Debug\Lecture5and6.exe.config
+c:\users\gawli\onedrive\documents\visual studio 2017\Projects\Lecture5and6\Lecture5and6\bin\Debug\Lecture5and6.exe
+c:\users\gawli\onedrive\documents\visual studio 2017\Projects\Lecture5and6\Lecture5and6\bin\Debug\Lecture5and6.pdb
+c:\users\gawli\onedrive\documents\visual studio 2017\Projects\Lecture5and6\Lecture5and6\obj\Debug\Lecture5and6.csprojResolveAssemblyReference.cache
+c:\users\gawli\onedrive\documents\visual studio 2017\Projects\Lecture5and6\Lecture5and6\obj\Debug\Lecture5and6.exe
+c:\users\gawli\onedrive\documents\visual studio 2017\Projects\Lecture5and6\Lecture5and6\obj\Debug\Lecture5and6.pdb
+c:\users\gawli\onedrive\documents\visual studio 2017\Projects\Lecture5and6\Lecture5and6\bin\Debug\MathNet.Numerics.dll
+c:\users\gawli\onedrive\documents\visual studio 2017\Projects\Lecture5and6\Lecture5and6\bin\Debug\MathNet.Numerics.xml
